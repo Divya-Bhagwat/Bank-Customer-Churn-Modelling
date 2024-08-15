@@ -1,2 +1,3 @@
-# Bank-Customer-Churn-Modelling
-Predict customer churn to target retention efforts, identify key attrition drivers, and enhance customer satisfaction.
+## Bank-Customer-Churn-Modelling
+Predict whether the customer will stay or leave the bank
+Dataset taken from the YBI-Foundation repository
